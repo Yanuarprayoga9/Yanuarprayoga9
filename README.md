@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanuar Prayoga</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate to be a web developer</h3>
 
 📫 How to reach me **yanuarprayogat@gmail.com**
 
