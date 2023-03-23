@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yanuar Prayoga</h1>
 <h3 align="center">im from indonesia</h3>
 <h3 align="center">A passionate to be a web developer</h3>
+
 📫 How to reach me **yanuarprayogat@gmail.com**
-
-
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Yanuarprayoga9&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanuarprayoga9&layout=compact"/>
