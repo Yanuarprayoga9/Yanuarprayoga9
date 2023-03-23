@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanuar Prayoga</h1>
+<h3 align="center">Iam a student college👋</h3>
 <h3 align="center">A passionate to be a web developer</h3>
 
 
