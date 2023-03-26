@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yanuar Prayoga</h1>
 <h3 align="center">im from indonesia</h3>
-<h3 align="center">A passionate to be a software engineer</h3>
+<h3 align="center">A passionate to be a Web developer</h3>
 
 📫 How to reach me **yanuarprayogat@gmail.com**
 
