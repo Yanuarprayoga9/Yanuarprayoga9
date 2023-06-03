@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yanuar Prayoga from Indonesia</p>
+<p align="left">My name is Yanuar Prayoga im from Indonesia</p>
 
 ###
 
