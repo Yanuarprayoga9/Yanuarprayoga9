@@ -1,9 +1,9 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up my name is Yanuar I'm a Fullstack web developer?</h1>
 
 ###
 
-<p align="left">My name is yanuar prayoga and I'm a fullstack developer, from indonesia</p>
+<p align="left">5th Teknik Informatika, Politeknik Negeri Cilacap</p>
 
 ###
 
