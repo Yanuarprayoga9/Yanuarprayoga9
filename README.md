@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is yanuar prayoga and I'm a web developer, from indonesia</p>
+<p align="left">My name is yanuar prayoga and I'm a fullstack developer, from indonesia</p>
 
 ###
 
