@@ -1,5 +1,6 @@
 
-<h1 align="left">Hey 👋 What's up my name is Yanuar I'm a Fullstack web developer?</h1>
+<h1 align="left">Hey 👋 What's up </h1>
+<h1 align="left">My name is Yanuar I'm a Javascript Enthusiast</h1>
 
 ###
 
