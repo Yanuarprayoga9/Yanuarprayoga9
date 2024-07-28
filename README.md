@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently using javascript tech</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently using javascript and golang tech</p>
 
 ###
 
@@ -45,7 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yanuarprayoga9/Yanuarprayoga9/output/snake.svg" alt="Snake animation" />
 
 ###
 
